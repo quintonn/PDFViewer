@@ -26,7 +26,7 @@ The plugin creates the global object ```PDFViewer``` in the window scope.
 ### Open a Document File ###
 
 ```js
-PDFViewer.openPDF(url);
+PDFViewer.showPDF(url);
 ```
 
 
